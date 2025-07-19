@@ -31,8 +31,8 @@ A secure web application for managing and analyzing medical reports with OCR tex
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/medical-report-tracker.git
-   cd medical-report-tracker
+   git clone 
+   cd medical-report-consolidator
    ```
 
 2. Install dependencies:
